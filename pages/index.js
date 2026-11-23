@@ -12,14 +12,15 @@ export default function Home() {
           content="Impulsa tu negocio digital con aplicaciones web ultrarrápidas en Next.js y estrategias avanzadas de posicionamiento SEO en Google."
         />
         <meta name="keywords" content="Next.js, SEO técnico, desarrollo web, rendimiento, Perú" />
+        <meta name="google-site-verification" content="n7hDgZ9DKdWTlYdlh9VktTTquSPeyhiXnl1PuZcXCEY" />
         {/* Open Graph */}
         <meta property="og:title" content="TechNova Perú | Desarrollo Web y Consultoría SEO" />
         <meta
           property="og:description"
           content="Creamos sitios web optimizados para Core Web Vitals y motores de búsqueda."
         />
-        <meta property="og:image" content="https://tu-dominio.vercel.app/images/seo-image.png" />
-        <meta property="og:url" content="https://tu-dominio.vercel.app/" />
+        <meta property="og:image" content="https://mi-proyecto-seoo.onrender.com/images/seo-image.png" />
+        <meta property="og:url" content="https://mi-proyecto-seoo.onrender.com/" />
         <meta property="og:type" content="website" />
       </Head>
 
